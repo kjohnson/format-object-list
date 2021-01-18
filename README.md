@@ -2,6 +2,9 @@
 
 Formats an associative array into a JS parsable array of label/value objects.
 
+## Installation
+
+`composer require kjohnson/format-object-list`
 ## Usage
 
 ```php
